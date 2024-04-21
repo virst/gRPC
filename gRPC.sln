@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreeterServiceApp", "GreeterServiceApp\GreeterServiceApp.csproj", "{6C2B5328-FF7E-4198-A41E-A7183E5AA7D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreeterClientApp", "GreeterClientApp\GreeterClientApp.csproj", "{AA7CE0B8-DF3C-4DE8-88C7-776461DBC89A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GreeterClient", "GreeterClient\GreeterClient.pyproj", "{AD8A05BB-F3FB-4E37-8444-A622C7F2990E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2B5328-FF7E-4198-A41E-A7183E5AA7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2B5328-FF7E-4198-A41E-A7183E5AA7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2B5328-FF7E-4198-A41E-A7183E5AA7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2B5328-FF7E-4198-A41E-A7183E5AA7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7CE0B8-DF3C-4DE8-88C7-776461DBC89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7CE0B8-DF3C-4DE8-88C7-776461DBC89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7CE0B8-DF3C-4DE8-88C7-776461DBC89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7CE0B8-DF3C-4DE8-88C7-776461DBC89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8A05BB-F3FB-4E37-8444-A622C7F2990E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8A05BB-F3FB-4E37-8444-A622C7F2990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40211CEF-3EAF-455B-A64E-45799900DE71}
+	EndGlobalSection
+EndGlobal
